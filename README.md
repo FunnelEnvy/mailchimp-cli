@@ -1,7 +1,7 @@
 # Mailchimp CLI
 
-[![npm version](https://img.shields.io/npm/v/@marketing-clis/mailchimp-cli.svg)](https://www.npmjs.com/package/@marketing-clis/mailchimp-cli)
-[![CI](https://github.com/marketing-clis/mailchimp-cli/actions/workflows/ci.yml/badge.svg)](https://github.com/marketing-clis/mailchimp-cli/actions/workflows/ci.yml)
+[![npm version](https://img.shields.io/npm/v/@funnelenvy/mailchimp-cli.svg)](https://www.npmjs.com/package/@funnelenvy/mailchimp-cli)
+[![CI](https://github.com/FunnelEnvy/mailchimp-cli/actions/workflows/ci.yml/badge.svg)](https://github.com/FunnelEnvy/mailchimp-cli/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 Command-line interface for the Mailchimp Marketing API. Manage audiences, subscribers, campaigns, templates, reports, and automations from your terminal.
@@ -9,7 +9,7 @@ Command-line interface for the Mailchimp Marketing API. Manage audiences, subscr
 ## Install
 
 ```bash
-npm install -g @marketing-clis/mailchimp-cli
+npm install -g @funnelenvy/mailchimp-cli
 ```
 
 ## Quick Start
@@ -166,7 +166,7 @@ Config file location: `~/.config/mailchimp-cli/config.json`
 ## Development
 
 ```bash
-git clone https://github.com/marketing-clis/mailchimp-cli.git
+git clone https://github.com/FunnelEnvy/mailchimp-cli.git
 cd mailchimp-cli
 pnpm install
 pnpm run build
@@ -175,7 +175,7 @@ pnpm run test
 
 ## Part of Marketing CLIs
 
-This tool is part of [Marketing CLIs](https://github.com/marketing-clis/marketing-clis) — open source CLIs for marketing tools that don't have them.
+This tool is part of [Marketing CLIs](https://github.com/FunnelEnvy/marketing-clis) — open source CLIs for marketing tools that don't have them.
 
 ## License
 

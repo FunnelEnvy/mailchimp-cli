@@ -1,5 +1,5 @@
 {
-  "name": "@marketing-clis/mailchimp-cli",
+  "name": "@funnelenvy/mailchimp-cli",
   "version": "0.1.0",
   "description": "Command-line interface for the Mailchimp Marketing API",
   "type": "module",
@@ -28,7 +28,7 @@
     "email",
     "campaigns"
   ],
-  "author": "Marketing CLIs Contributors",
+  "author": "FunnelEnvy",
   "license": "MIT",
   "dependencies": {
     "chalk": "^5.3.0",
