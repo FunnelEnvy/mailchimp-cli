@@ -70,7 +70,10 @@ mailchimp auth login
 # Option 2: Environment variable
 export MAILCHIMP_API_KEY=your-api-key-us21
 
-# Option 3: Direct flag (any command)
+# Option 3: `authsome` + authsome skill for runtime credential injection in agent workflows
+# https://github.com/manojbajaj95/authsome
+
+# Option 4: Direct flag (any command)
 mailchimp lists list --api-key your-api-key-us21
 ```
 

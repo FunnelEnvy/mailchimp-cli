@@ -47,6 +47,8 @@ mailchimp auth login
 # Or use environment variable
 export MAILCHIMP_API_KEY=your-api-key-us21
 
+# Or use [`authsome`](https://github.com/manojbajaj95/authsome) with the authsome skill, which handles runtime credential injection for agent workflows
+
 # Or pass directly to any command
 mailchimp lists list --api-key your-api-key-us21
 ```
