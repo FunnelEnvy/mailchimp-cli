@@ -51,6 +51,8 @@ export MAILCHIMP_API_KEY=your-api-key-us21
 mailchimp lists list --api-key your-api-key-us21
 ```
 
+Or use [`authsome`](https://github.com/manojbajaj95/authsome) with the authsome skill, which handles runtime credential injection for agent workflows.
+
 ### Priority Order
 
 1. `--api-key` flag
